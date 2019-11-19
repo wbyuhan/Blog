@@ -21,7 +21,7 @@ module.exports = {
     ],
       sidebar: {
         '/base/': [
-          '',     /* /foo/ */
+          '',     /* /foo/*/
           'one',  /* /foo/one.html */
           'two'   /* /foo/two.html */
         ],
