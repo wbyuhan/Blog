@@ -1,0 +1,26 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "yuhan的个人博客",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbyuhan/Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbyuhan/Blog/issues"
+  },
+  "homepage": "https://github.com/wbyuhan/Blog#readme"
+}
